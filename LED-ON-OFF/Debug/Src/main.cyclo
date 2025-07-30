@@ -1,0 +1,6 @@
+../Src/main.c:23:6:PC8_Init	1
+../Src/main.c:29:6:PC8_On	1
+../Src/main.c:33:6:PC8_Off	1
+../Src/main.c:38:6:USART2_Init	1
+../Src/main.c:58:5:main	1
+../Src/main.c:68:6:USART2_IRQHandler	4
